@@ -17,7 +17,6 @@
 | 2 | `modul-2-akuisisi-dan-cleaning` | |
 | 3 | `modul-3-eda-dan-feature-engineering` | |
 | 4 | `modul-4-inferensi-dan-hipotesis` | |
-| 5 | `modul-5-isi-sesuai-kursus` | |
 
 ## Temuan Utama
 (Isi setelah analisis selesai.)
